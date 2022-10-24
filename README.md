@@ -1,7 +1,9 @@
 # Extracting and Visualizing High Tech Corporation (MAANG) Stock Data as of Today (2022-2023) from yfinance
 Determining the price of a stock is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more.  An essential factor is the company's profit and growth of profits; if the company's profit is increasing, the stock price should increase.  If you suspect the company's profit increases, you should buy the stock as the stock should increase, But what happens if you think the stock price will decrease. 
 
-<p>https://coursera-assessments.s3.amazonaws.com/assessments/1666609164701/2f1dfa0c-d4bf-4afc-bf48-aa46c4847170/Q6.png</P>
+<p align="center">
+<img src="https://coursera-assessments.s3.amazonaws.com/assessments/1666609164701/2f1dfa0c-d4bf-4afc-bf48-aa46c4847170/Q6.png" alt=""/>
+</p>
 
 Short selling is how you make money if the stock decreases. An investor borrows a stock, sells the stock, and then repurchases it to return it to the lender.  Typically stocks fall faster than they rise, so you can make a profit more quickly. Usually, experienced investors such as hedge funds partake in short selling. One problem is if the stock price increases, the investor can lose money.
 
